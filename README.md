@@ -1,2 +1,33 @@
-# Z-Fit_Studio
-# Z-Fit Studio 💜  **Your fitness journey, managed in one place.**  Z-Fit Studio is a personal fitness and gym management Android application designed to make workout tracking, nutrition management and fitness progress analysis simple and organized.  ### ✨ Features - **Dashboard:** Track daily calories, protein, water intake and body weight. - **Workout Management:** Organize weekly gym routines and exercise schedules. - **Exercise Library:** View exercise instructions, proper form, breathing techniques, target muscles and safety precautions. - **Nutrition Tracker:** Manage daily meals, food portions, calories and macronutrients. - **Supplement Tracker:** Keep track of creatine, multivitamins, fish oil and pre-workout. - **Progress Analytics:** Visualize weight changes, nutrition trends, hydration and workout consistency. - **Personalized Goals:** Customize daily fitness targets and track achievements. - **Offline & Private:** Designed for personal use without mandatory login or cloud accounts.  ### 🎨 Design A clean, minimal interface featuring a warm cream and elegant purple color palette.  ### 🎯 Vision To create an all-in-one personal fitness companion that brings gym training, nutrition and progress tracking together in a simple, beautiful and practical application.  **Z-Fit Studio — Train Smart. Eat Right. Track Progress.**
+Z-Fit Studio 💜
+
+Your fitness journey, managed in one place.
+
+Z-Fit Studio is a personal fitness and gym management Android application designed to make workout tracking, nutrition management and fitness progress analysis simple and organized.
+
+✨ Features
+
+Dashboard: Track daily calories, protein, water intake and body weight.
+
+Workout Management: Organize weekly gym routines and exercise schedules.
+
+Exercise Library: View exercise instructions, proper form, breathing techniques, target muscles and safety precautions.
+
+Nutrition Tracker: Manage daily meals, food portions, calories and macronutrients.
+
+Supplement Tracker: Keep track of creatine, multivitamins, fish oil and pre-workout.
+
+Progress Analytics: Visualize weight changes, nutrition trends, hydration and workout consistency.
+
+Personalized Goals: Customize daily fitness targets and track achievements.
+
+Offline & Private: Designed for personal use without mandatory login or cloud accounts.
+
+🎨 Design
+
+A clean, minimal interface featuring a warm cream and elegant purple color palette.
+
+🎯 Vision
+
+To create an all-in-one personal fitness companion that brings gym training, nutrition and progress tracking together in a simple, beautiful and practical application.
+
+Z-Fit Studio — Train Smart. Eat Right. Track Progress.
